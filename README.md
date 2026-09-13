@@ -9,9 +9,9 @@ different industries and examines patterns within the data.
 
 The goal of this analysis is to answer three questions:
 
-1. Which industries have the highest emissions factors?
-2. Do emissions factors exhibit seasonal patterns?
-3. How do industries compare?
+1. Which industries have the highest and lowest emissions factors?
+2. How do emissions factors vary across industries?
+3. How does including margins affect emissions factors?
 
 ## Dataset
 
@@ -25,23 +25,13 @@ Google BigQuery.
 - Power BI
 - GitHub
 
-## Analysis
-
-### 1. Industry Emissions
-
-[Your findings will go here.]
-
-### 2. Seasonal Patterns
-
-[Your findings will go here.]
-
-### 3. Industry Comparison
-
-[Your findings will go here.]
-
 ## Key Findings
 
-[We'll write these after completing the analysis.]
+- **Cement Manufacturing** had the highest supply chain greenhouse gas emissions factor among the industries analyzed.
+
+- **Third-Party Administration of Insurance and Pension Funds** had the lowest emissions factor in the dataset.
+
+- **Lawn and Garden Tractor and Garden Equipment Manufacturing** had the largest relative increase when margins were included, with its emissions factor increasing by **130.77%** compared with the value without margins.
 
 ## Dashboard
 
