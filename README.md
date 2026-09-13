@@ -31,7 +31,7 @@ Google BigQuery.
 
 - **Third-Party Administration of Insurance and Pension Funds** had the lowest emissions factor in the dataset.
 
-- **Lawn and Garden Tractor and Garden Equipment Manufacturing** had the largest relative increase when margins were included, with its emissions factor increasing by **130.77%** compared with the value without margins.
+- **Lawn and Garden Equipment Manufacturing** had the largest relative increase when margins were included, with its emissions factor increasing by **130.77%** compared with the value without margins.
 
 ## Dashboard
 
