@@ -10,7 +10,6 @@ LIMIT 20;
 SELECT COUNT(*) AS total_rows
 FROM greenhouse-emissions.supply_chain_ghg.emissions_factors;
 
-
 -- List the industries
 SELECT DISTINCT
   `2017 NAICS Title`
