@@ -1,12 +1,48 @@
-## Investigate patterns in U.S. supply chain greenhouse gas emission factors and identify meaningful differences across time and industries.
-Tools: <br>
--SQL <br>
--Google BigQuery <br>
--GitHub <br>
+# Supply Chain GHG Analysis
 
-Questions: <br>
--Which industries have the highest emission factors? <br>
--Do emission factors exhibit seasonal patterns? <br>
--How do industries compare? <br>
+## Overview
 
-Key findings: 
+This project analyzes greenhouse gas emissions factors across
+different industries and examines patterns within the data.
+
+## Objective
+
+The goal of this analysis is to answer three questions:
+
+1. Which industries have the highest emissions factors?
+2. Do emissions factors exhibit seasonal patterns?
+3. How do industries compare?
+
+## Dataset
+
+The dataset was obtained from Data.gov and imported into
+Google BigQuery.
+
+## Tools
+
+- SQL
+- Google BigQuery
+- Power BI
+- GitHub
+
+## Analysis
+
+### 1. Industry Emissions
+
+[Your findings will go here.]
+
+### 2. Seasonal Patterns
+
+[Your findings will go here.]
+
+### 3. Industry Comparison
+
+[Your findings will go here.]
+
+## Key Findings
+
+[We'll write these after completing the analysis.]
+
+## Dashboard
+
+[We'll add your Power BI dashboard here.]
