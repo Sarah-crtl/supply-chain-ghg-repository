@@ -1,7 +1,7 @@
 -- Supply Chain GHG Analysis
 -- Margin Analysis
 
---Compare emissions with and without margins
+-- Emissions with and without margins
 SELECT
 `2017 NAICS Title` AS industry,
 `Supply Chain Emission Factors without Margins` AS without_margins,
@@ -10,7 +10,7 @@ SELECT
 FROM greenhouse-emissions.supply_chain_ghg.emissions_factors
 ORDER BY with_margins DESC
 
-  --Calculate the absolute difference
+  -- The difference in margins
 SELECT
 `2017 NAICS Title` AS industry,
 `Supply Chain Emission Factors without Margins` AS without_margins,
@@ -21,7 +21,7 @@ AS margin_impact
 FROM greenhouse-emissions.supply_chain_ghg.emissions_factors
 ORDER BY margin_impact DESC
 
---find the percentage increase
+-- the percentage increase
 SELECT
   `2017 NAICS Title` AS industry,
   `Supply Chain Emission Factors without Margins` AS without_margins,
