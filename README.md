@@ -35,4 +35,6 @@ Google BigQuery.
 
 ## Dashboard
 
-[We'll add your Power BI dashboard here.]
+The dashboard below visualizes supply chain greenhouse gas emissions across industries, including factors with and without margins.
+
+<img width="1771" height="575" alt="supply-chain-ghg-dashboard" src="https://github.com/user-attachments/assets/be3a4b74-e334-4364-b9a1-e2e95a4bd0af" />
